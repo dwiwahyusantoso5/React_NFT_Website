@@ -146,7 +146,7 @@ const Footer = () => {
 
           <Col lg="12" className="mt-4 text-center">
             <p className="copyright">
-              Copyroghts 2022, Developed by XXXX. @xxx All Rights Served.
+              Copyroghts 2022, Developed by XXXX. @xxxx All Rights Served.
             </p>
           </Col>
         </Row>
